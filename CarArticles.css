@@ -1,0 +1,48 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.AE86block, .BMWblock, .Skylineblock, .MX-5block {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+
+.AE86text {
+    flex: 1;
+    line-height: 30px;
+    font-size:22px;
+}
+
+.BMWtext {
+    flex: 1;
+    line-height: 30px;
+    font-size:24px;
+}
+
+.SkylineText {
+    flex: 1;
+    line-height: 30px;
+    font-size:23px;
+}
+
+.MX-5Text {
+    flex: 1;
+    line-height: 35px;
+    font-size:34px;
+}
+
+.AE86img, .BMWimg, .Skylineimg, .MX-5img {
+    flex: 1;
+    justify-content: center;
+    display: flex;
+}
+
+
+.AE86resize, .BMWresize, .Skylineresize, .MX-5resize {
+    width: 95%;
+    height: auto;
+}
