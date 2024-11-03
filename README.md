@@ -1,3 +1,4 @@
-The purpose of this project is to practice and further devlop my HTML, CSS,
-and JavaScript proficiency. I intend to experiment with various ideas and
-concepts by showcasing some of my favorite cars throughout various media.  
+The purpose of this project is to further devlop my HTML formatting and CSS styling skills,
+and to start implementing simple JavaScript functions within my work as well.
+The use of this website is to serve as a simple way to talk about some of my
+favorite cars throughout various forms of media.
